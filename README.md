@@ -3,28 +3,24 @@
 
 # Hi, I'm Richard 👋
 
-```yaml
+```json
 {
-    Name: "Richard",
-    Age: 21,
-    Nationality: "Brazilian",
-    Idioms: {
-        [
-            "Portuguese",
-            "English"
-        ]
-    },
-    Stack: {
-        [
-            "Java",
-            "Spring (Java)",
-            "Javascript",
-            "Angular"
-            "Git",
-            "Docker",
-            "Flutter",
-        ]
-    }
+    "Name": "Richard",
+    "Age": 21,
+    "Nationality": "Brazilian",
+    "Idioms": [
+        "Portuguese",
+        "English"
+    ],
+    "Stack": [
+        "Java",
+        "Spring (Java)",
+        "Javascript",
+        "Angular",
+        "Git",
+        "Docker",
+        "Flutter"
+    ]
 }
 ```
 
