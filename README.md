@@ -1,10 +1,38 @@
 
 # WELCOME TO MY GITHUB PROFILE
 
-Name: Richard Prandt 
+# Hi, I'm Richard 👋
 
-Age: 21
+```yaml
+{
+    Name: "Richard",
+    Age: 21,
+    Nationality: "Brazilian",
+    Idioms: {
+        [
+            "Portuguese",
+            "English"
+        ]
+    },
+    Stack: {
+        [
+            "Java",
+            "Spring (Java)",
+            "Javascript",
+            "Angular"
+            "Git",
+            "Docker",
+            "Flutter",
+        ]
+    }
+}
+```
 
-Languages: Portuguese (Native) / English
+## 🚀 About me
+I'm a developer focused on backend development and in my spare time I take a chance on the frontend 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prandt)](https://github.com/prandt/github-readme-stats)
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardprandt)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prandtr)
+
