@@ -19,7 +19,8 @@
         "Angular",
         "Git",
         "Docker",
-        "Flutter"
+        "Flutter",
+        "Vue (learning)"
     ]
 }
 ```
