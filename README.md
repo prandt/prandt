@@ -1,7 +1,7 @@
 
-# WELCOME TO MY GITHUB PROFILE 😎
+# WELCOME TO MY GITHUB PROFILE 🧙🏻‍♂️
 
-# Hi, I'm Richard 
+# aboutme.json
 
 ```json
 {
@@ -20,13 +20,10 @@
         "Git",
         "Docker",
         "Flutter"
-    ]
+    ],
+    "Website" : "https://rprandt.com"
 }
 ```
-
-## About me
-I'm a developer focused on backend development and in my spare time I take a chance on the frontend 
-
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardprandt)
