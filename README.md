@@ -17,6 +17,7 @@
         "Spring Boot",
         "TypeScript",
         "Angular",
+        "Vue",
         "Git",
         "Docker",
         "Flutter"
