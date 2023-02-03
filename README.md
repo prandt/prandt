@@ -8,4 +8,4 @@ Software developer at **[Pruvo](https://pruvo.app/)**
 <br>
 [Site](https://rprandt.com)
 
-Born in Curitiba, Brazil 🇧🇷
+Born in Curitiba, Brazil
