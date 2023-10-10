@@ -1,9 +1,7 @@
-<h2>Hi, I'm Richard Prandt</h2>
+<h2>Richard Prandt</h2>
 
-Software developer at **[Pruvo](https://pruvo.app/)**
+<a href="https://rprandt.com">Home</a> / <a href="https://www.linkedin.com/in/richardprandt/" style="color: black;">LinkedIn</a>
 
-[Linkedin](https://linkedin.com/in/richardprandt)
-<br>
-[Site](https://rprandt.com)
-
-Born in Curitiba, Brazil
+```
+Ask me about anything 🧙‍♂️
+```
