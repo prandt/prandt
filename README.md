@@ -1,10 +1,10 @@
 # Richard Prandt 🧙‍♂️
 
-### [home](https://rprandt.com/) **-** [linkedin](https://www.linkedin.com/in/richardprandt)
 
-### PL
+
 <div >
 	<table>
+		<caption>languages</caption>
 		<tr>
 			<td><img width="16" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></td>
 			<td><img width="16" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></td>
@@ -16,10 +16,10 @@
 	</table>
 </div>
 
-### Frameworks
 
 <div >
 	<table>
+		<caption>frameworks</caption>
 		<tr>
 			<td><img width="16" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></td>
 			<td><img width="16" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></td>
@@ -30,3 +30,5 @@
 		</tr>
 	</table>
 </div>
+
+**[Linkedin](https://www.linkedin.com/in/richardprandt)**
